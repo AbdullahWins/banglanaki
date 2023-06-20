@@ -1,0 +1,23 @@
+{
+  "name": "banglanaki",
+  "version": "1.0.1",
+  "description": "This is a package that checks if the input/given text is a bengali character or bengali number or not.",
+  "main": "banglanaki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bangla text",
+    "Bangla font",
+    "Bangla character",
+    "Text detection",
+    "Bangla text detection",
+    "Font detection",
+    "Character verification",
+    "Bangla character verification",
+    "Verify text",
+    "Verify Bangla text"
+  ],
+  "author": "abdullahwins",
+  "license": "ISC"
+}
